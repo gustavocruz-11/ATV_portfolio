@@ -1,7 +1,7 @@
 # 🏀 Portfólio Pessoal - Gustavo Cruz
 
-> **Desenvolvedor Web & Atleta**[cite: 2]  
-> **Curso:** Desenvolvimento de Sistemas — SENAI[cite: 2]  
+> **Desenvolvedor Web & Atleta**  
+> **Curso:** Desenvolvimento de Sistemas — SENAI  
 
 ---
 
